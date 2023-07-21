@@ -1,0 +1,16 @@
+.main-img {
+    background-image: url(../img/img-main.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    display: flex;
+}
+
+.color {
+    color: white;
+}
+
+.main-info {
+    margin-top: 120px;
+    float: left;
+}
